@@ -1,2 +1,3 @@
 # FunFerRepo-Main
-The first repository created by @Snowy-FunFer at 2025.8.16.
+This is the first repository created by @Snowy-FunFer at 2025.8.16.
+This repository hosts original projects that are interesting or useful.
