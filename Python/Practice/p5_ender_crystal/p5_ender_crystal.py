@@ -1,3 +1,9 @@
+""" Python 3.13.5
+这是Minecraft末影水晶运动的模拟程序。
+运行此程序后你会看到一个高度还原的末影水晶模型。
+
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.linalg import expm
@@ -102,3 +108,4 @@ ani = FuncAnimation(
 
 plt.tight_layout()
 plt.show()
+
